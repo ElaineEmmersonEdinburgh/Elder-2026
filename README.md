@@ -98,5 +98,5 @@ data/
 
 The raw sequencing data are not included in this repository.
 
-Raw data are available from .....
+The raw scRNA-seq and bulk RNA-seq data are available via the European Molecular Biology Laboratory (EMBL) - European Bioinformatics Institute (EBI) public database ArrayExpress (https://www.ebi.ac.uk/biostudies/arrayexpress): scRNA-seq - accession code: E-MTAB-13374; bulk-seq - accession code: E-MTAB-17509. 
 
